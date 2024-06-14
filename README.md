@@ -17,7 +17,7 @@ To run this project, you need to have Python installed. You can download Python 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pharmacy-sales-monitoring-system.git
+    git clone https://github.com/ad0n1sdllpc/pharmacy-sales-monitoring-system.git
     cd pharmacy-sales-monitoring-system
     ```
 
@@ -76,4 +76,22 @@ python run.py
 
 ## Screenshots
 
-(Include screenshots of the main screens of your application here)
+#### Login
+
+<img src="ReadmeImages/login.png" width="60%">
+
+#### Dashboard
+
+<img src="ReadmeImages/dashboard.png" width="60%">
+
+#### Billing
+
+<img src="ReadmeImages/billing.png" width="60%">
+
+#### Stocks
+
+<img src="ReadmeImages/stocks.png" width="60%">
+
+#### Sales
+
+<img src="ReadmeImages/sales.png" width="60%">
